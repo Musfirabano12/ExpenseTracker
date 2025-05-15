@@ -1,18 +1,20 @@
-# Simple Expense Tracker
+# Simple Expense Tracker (Python)
 
-This is a basic command-line Python app that lets users track their expenses.
+A beginner-friendly *command-line application* built in Python to help users *track their daily expenses*. Users can add, view, delete, and summarize expenses by category.
+
+---
 
 ## Features
 
-- Add new expenses (date, category, amount, description)
+- Add a new expense (date, category, amount, description)
 - View all recorded expenses
-- See total expenses by category
-- Delete any expense by entry number
-- Simple and beginner-friendly code
+- See total expenses for a specific category
+- Delete an expense by entry number
+- Simple, clean interface for easy navigation
 
-## How to Run
+---
 
-1. Install Python (if not already installed).
-2. Run the script:
-```bash
-python expense_tracker.py
+## Technologies Used
+
+- Python 3.x
+- Standard libraries only (no external dependencies)
